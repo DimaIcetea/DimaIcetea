@@ -36,15 +36,16 @@ Here's a snapshot of my experience with these programming languages:
 My primary focus revolves around a noteworthy project for my university. This project, whether it's a cutting-edge website or another intriguing endeavor, is dedicated to improving the student experience by providing valuable information, essential tools, and valuable resources.
 
 🛠️ **Technologies and Tools:** 
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Node.js, Kotlin(Ktor)
-Database: Postgresql
-Version Control: Git
-Development Tools: Visual Studio Code, IntelliJ IDEA
-Project Management: Discord
-UI/UX Design: Figma
-Deployment: Heroku
-Testing: Ktor
+
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js, Kotlin(Ktor)
+- **Database:** Postgresql
+- **Version Control:** Git
+- **Development Tools:** Visual Studio Code, IntelliJ IDEA
+- **Project Management:** Discord
+- **UI/UX Design:** Figma
+- **Deployment:** Heroku
+- **Testing:** Ktor
 
 If you have any questions or are interested in learning more about my university project, please don't hesitate to reach out to me.
 
