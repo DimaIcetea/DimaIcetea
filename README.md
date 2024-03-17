@@ -53,7 +53,7 @@ If you have any questions or are interested in learning more about my university
 
 📫 Let's Connect:
 
-- [LinkedIn](https://www.linkedin.com/in/dmitry-dyorin-22119b272/)
+- [LinkedIn](https://www.linkedin.com/in/dmytro-dyorin/)
 - 📧 Email: haky.gamer050@gmail.com
 
 Thank you for stopping by my GitHub profile! I'm always open to new connections and exciting collaborations. 🚀
