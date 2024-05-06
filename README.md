@@ -24,6 +24,8 @@ I thrive in dynamic environments where learning is a way of life. Whether immers
 
 🤝 Let's Collaborate:
 I'm eager to connect with like-minded professionals, engage in insightful discussions, and embark on collaborative endeavors that push the boundaries of technology. Reach out for collaboration opportunities, thought-provoking conversations, or simply to share in the excitement of the ever-evolving tech landscape!
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimaIcetea&theme=dark&background=000000)](https://git.io/streak-stats)
 - [LinkedIn](https://www.linkedin.com/in/dmytro-dyorin/)
 - 📧 Email: haky.gamer050@gmail.com
 
