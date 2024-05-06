@@ -1,57 +1,29 @@
 # Hello, I'm Dmitry 👋
+👋 Welcome to my GitHub!
 
-## About Me
+I'm passionate about crafting robust solutions using cutting-edge technologies, with a primary focus on C# and the .NET ecosystem. With a solid foundation in C#, I've delved into the realms of Python, Java, C++, and Kotlin, broadening my toolkit to tackle diverse challenges.
 
-🎓 Student of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
-🚀 Passionate Software Developer
+🚀 Expertise:
 
-Hello! I'm Dmitry, a dedicated university student with a strong passion for software development. I have hands-on experience with a variety of programming languages, including:
+C#: Proficient in leveraging C# to build scalable, efficient applications, ranging from web to desktop and beyond.
+Python: Experienced in harnessing Python's versatility for data analysis, automation, and web development.
+Java: Skilled in developing enterprise-level applications and Android apps using Java.
+C++: Familiar with C++ for performance-critical tasks and system-level programming.
+Kotlin: Versatile in crafting modern, concise code for Android development and backend services.
+💼 Professional Experience:
+I've collaborated on a range of projects, from agile startups to established enterprises, contributing my expertise in software architecture, design patterns, and performance optimization. My passion for clean code and robust solutions drives me to continually explore emerging technologies and best practices.
 
-- 💻 JavaScript (JS)
-- 🚀 C++
-- 🐍 Python
-- ⚙️ C#
-- 📱 Kotlin
+🔧 Tooling:
 
-Currently, I'm actively learning and working on a project for my university, aimed at enhancing the student experience.
+Frameworks: ASP.NET Core, Xamarin, Unity
+Databases: SQL Server, MongoDB, SQLite
+DevOps: Docker, Kubernetes, Azure DevOps
+Testing: NUnit, MSTest, JUnit
+🌱 Always Learning:
+I thrive in dynamic environments where learning is constant. Whether diving into the latest .NET features, exploring machine learning with Python, or experimenting with mobile app development in Kotlin, I'm committed to staying at the forefront of technology.
 
-## Experience
-
-Here's a snapshot of my experience with these programming languages:
-
-- **JavaScript (JS):** Creating interactive web applications with modern JavaScript and its frameworks.
-
-- **C++:** Developing applications using the C++ Standard Library and creating immersive games using game engines.
-
-- **Python:** Leveraging Python for scripting, data analysis, and machine learning projects.
-
-- **C#:** Crafting Windows applications and game development using the versatile C# language within the Unity platform.
-
-- **Kotlin:** Exploring the world of mobile app development on Android with Kotlin.
-
-## My University Project
-
-🎓 Currently Working on a University Project
-
-My primary focus revolves around a noteworthy project for my university. This project, whether it's a cutting-edge website or another intriguing endeavor, is dedicated to improving the student experience by providing valuable information, essential tools, and valuable resources.
-
-🛠️ **Technologies and Tools:** 
-
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Node.js, Kotlin(Ktor)
-- **Database:** Postgresql
-- **Version Control:** Git
-- **Development Tools:** Visual Studio Code, IntelliJ IDEA
-- **Project Management:** Discord
-- **UI/UX Design:** Figma
-- **Deployment:** Heroku
-- **Testing:** Ktor
-
-If you have any questions or are interested in learning more about my university project, please don't hesitate to reach out to me.
-
-## Contact
-
-📫 Let's Connect:
+🤝 Let's Connect:
+I'm excited about collaborating on innovative projects and engaging in meaningful discussions within the developer community. Feel free to reach out for collaborations, insights, or just to geek out over the latest tech trends!
 
 - [LinkedIn](https://www.linkedin.com/in/dmytro-dyorin/)
 - 📧 Email: haky.gamer050@gmail.com
